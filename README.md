@@ -1,6 +1,5 @@
 #Git 使用教程
 
-- fix-B
 - 首先设置用户名和邮箱一个文件夹中只允许设置一次 `git config --global user.name "John Doe"` `git config --global user.email johndoe@example.com`
 - 创建一个仓库>切换到仓库目录下>初始化仓库：`mkdir git-turtorial` `cd git-turtorial` `git init`
 - 查看仓库的状态   `git status`
